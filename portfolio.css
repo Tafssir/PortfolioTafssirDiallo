@@ -10,7 +10,7 @@ header{
     justify-content: space-between;
 }
 header .logo a{
-    font-size: 25px;
+    font-size: 25 px;
     color: greenyellow;
     text-decoration: 0;
 }
@@ -22,7 +22,7 @@ header .logo a span{
     display: flex;
 }
 .menu li{
-   margin: 0 15px;
+   margin: 0 15 px;
    list-style-type: none;
     transition: 0.5s;
 }
@@ -33,10 +33,10 @@ header .logo a span{
  }
 
 .menu li:hover{
-    transform:translateY(-10px);
+    transform: translateY (-10 px);
 }
 .fin-menu{
     color: greenyellow;
     text-decoration: 0;
-    font-size: 16px;
+    font-size: 16 px;
 }
