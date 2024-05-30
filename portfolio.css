@@ -1,0 +1,42 @@
+header{
+    display: flex;
+    padding: 0 5%;
+    background-color: #222222;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    align-items: center;
+    justify-content: space-between;
+}
+header .logo a{
+    font-size: 25px;
+    color: greenyellow;
+    text-decoration: 0;
+}
+header .logo a span{
+    color: white;
+}
+.menu{
+   align-items: center;
+    display: flex;
+}
+.menu li{
+   margin: 0 15px;
+   list-style-type: none;
+    transition: 0.5s;
+}
+.menu li a{
+     text-decoration: 0;
+    color: white;
+    font-size: 16px;
+ }
+
+.menu li:hover{
+    transform:translateY(-10px);
+}
+.fin-menu{
+    color: greenyellow;
+    text-decoration: 0;
+    font-size: 16px;
+}
