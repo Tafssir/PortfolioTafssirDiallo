@@ -1,6 +1,6 @@
 header{
     display: flex;
-    padding: 0 5%;
+    padding: 0 5 %;
     background-color: #222222;
     position: fixed;
     top: 0;
@@ -24,12 +24,12 @@ header .logo a span{
 .menu li{
    margin: 0 15 px;
    list-style-type: none;
-    transition: 0.5s;
+    transition: 0.5 s;
 }
 .menu li a{
      text-decoration: 0;
     color: white;
-    font-size: 16px;
+    font-size: 16 px;
  }
 
 .menu li:hover{
