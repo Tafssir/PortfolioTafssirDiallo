@@ -18,16 +18,16 @@ header .logo a span{
     color: white;
 }
 .menu{
-   align-items: center;
+    align-items: center;
     display: flex;
 }
 .menu li{
-   margin: 0 15px;
-   list-style-type: none;
+    margin: 0 15px;
+    list-style-type: none;
     transition: 0.5s;
 }
 .menu li a{
-     text-decoration: 0;
+    text-decoration: 0;
     color: white;
     font-size: 16px;
  }
