@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+.column{
+    flex: 1;
+    padding: 20 px;
+    border-right: 1 px solid #ccc;
+}
+.column:last-child{
+    border-right: none;
+}
