@@ -40,3 +40,24 @@ header .logo a span{
     text-decoration: 0;
     font-size: 16px;
 }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.bloc{
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+/*bloc*/
+.introduction{
+    background-color: #e3f2fd;
+}
+
+.projets{
+    background-color: #fff3e0;
+}
